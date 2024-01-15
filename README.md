@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gagare</h1>
 <h3 align="center">I am a final year student at Usha Mittal Institute of Technology in the Computer Engineering Department.</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\vaish\Downloads\96425529.jpg">
+<img align="right" alt="coding" width="400" src="https://github.com/VaishnaviGagare/VaishnaviGagare/blob/main/96425529.jpg
+  ">
 - 🌱 I’m currently learning **Flask,Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://glistening-baklava-25a176.netlify.app/](https://glistening-baklava-25a176.netlify.app/)
